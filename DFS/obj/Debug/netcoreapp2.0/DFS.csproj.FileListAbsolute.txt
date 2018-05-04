@@ -1,0 +1,11 @@
+D:\Soft\C#\algo\TrainingAlgo\DFS\bin\Debug\netcoreapp2.0\DFS.deps.json
+D:\Soft\C#\algo\TrainingAlgo\DFS\bin\Debug\netcoreapp2.0\DFS.runtimeconfig.json
+D:\Soft\C#\algo\TrainingAlgo\DFS\bin\Debug\netcoreapp2.0\DFS.runtimeconfig.dev.json
+D:\Soft\C#\algo\TrainingAlgo\DFS\bin\Debug\netcoreapp2.0\DFS.dll
+D:\Soft\C#\algo\TrainingAlgo\DFS\bin\Debug\netcoreapp2.0\DFS.pdb
+D:\Soft\C#\algo\TrainingAlgo\DFS\obj\Debug\netcoreapp2.0\DFS.csprojResolveAssemblyReference.cache
+D:\Soft\C#\algo\TrainingAlgo\DFS\obj\Debug\netcoreapp2.0\DFS.csproj.CoreCompileInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\DFS\obj\Debug\netcoreapp2.0\DFS.AssemblyInfoInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\DFS\obj\Debug\netcoreapp2.0\DFS.AssemblyInfo.cs
+D:\Soft\C#\algo\TrainingAlgo\DFS\obj\Debug\netcoreapp2.0\DFS.dll
+D:\Soft\C#\algo\TrainingAlgo\DFS\obj\Debug\netcoreapp2.0\DFS.pdb

@@ -1,0 +1,11 @@
+D:\Soft\C#\algo\TrainingAlgo\Fibbonacchi\bin\Debug\netcoreapp2.0\Fibbonacchi.deps.json
+D:\Soft\C#\algo\TrainingAlgo\Fibbonacchi\bin\Debug\netcoreapp2.0\Fibbonacchi.runtimeconfig.json
+D:\Soft\C#\algo\TrainingAlgo\Fibbonacchi\bin\Debug\netcoreapp2.0\Fibbonacchi.runtimeconfig.dev.json
+D:\Soft\C#\algo\TrainingAlgo\Fibbonacchi\bin\Debug\netcoreapp2.0\Fibbonacchi.dll
+D:\Soft\C#\algo\TrainingAlgo\Fibbonacchi\bin\Debug\netcoreapp2.0\Fibbonacchi.pdb
+D:\Soft\C#\algo\TrainingAlgo\Fibbonacchi\obj\Debug\netcoreapp2.0\Fibbonacchi.csproj.CoreCompileInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\Fibbonacchi\obj\Debug\netcoreapp2.0\Fibbonacchi.AssemblyInfoInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\Fibbonacchi\obj\Debug\netcoreapp2.0\Fibbonacchi.AssemblyInfo.cs
+D:\Soft\C#\algo\TrainingAlgo\Fibbonacchi\obj\Debug\netcoreapp2.0\Fibbonacchi.dll
+D:\Soft\C#\algo\TrainingAlgo\Fibbonacchi\obj\Debug\netcoreapp2.0\Fibbonacchi.pdb
+D:\Soft\C#\algo\TrainingAlgo\Fibbonacchi\obj\Debug\netcoreapp2.0\Fibbonacchi.csprojResolveAssemblyReference.cache

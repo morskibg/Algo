@@ -1,0 +1,11 @@
+D:\Soft\C#\algo\TrainingAlgo\LIS\bin\Debug\netcoreapp2.0\LIS.deps.json
+D:\Soft\C#\algo\TrainingAlgo\LIS\bin\Debug\netcoreapp2.0\LIS.runtimeconfig.json
+D:\Soft\C#\algo\TrainingAlgo\LIS\bin\Debug\netcoreapp2.0\LIS.runtimeconfig.dev.json
+D:\Soft\C#\algo\TrainingAlgo\LIS\bin\Debug\netcoreapp2.0\LIS.dll
+D:\Soft\C#\algo\TrainingAlgo\LIS\bin\Debug\netcoreapp2.0\LIS.pdb
+D:\Soft\C#\algo\TrainingAlgo\LIS\obj\Debug\netcoreapp2.0\LIS.csprojResolveAssemblyReference.cache
+D:\Soft\C#\algo\TrainingAlgo\LIS\obj\Debug\netcoreapp2.0\LIS.csproj.CoreCompileInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\LIS\obj\Debug\netcoreapp2.0\LIS.AssemblyInfoInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\LIS\obj\Debug\netcoreapp2.0\LIS.AssemblyInfo.cs
+D:\Soft\C#\algo\TrainingAlgo\LIS\obj\Debug\netcoreapp2.0\LIS.dll
+D:\Soft\C#\algo\TrainingAlgo\LIS\obj\Debug\netcoreapp2.0\LIS.pdb

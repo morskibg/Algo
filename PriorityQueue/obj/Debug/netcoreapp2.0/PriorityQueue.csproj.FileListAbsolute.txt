@@ -1,0 +1,10 @@
+D:\Soft\C#\algo\TrainingAlgo\PriorityQueue\bin\Debug\netcoreapp2.0\PriorityQueue.deps.json
+D:\Soft\C#\algo\TrainingAlgo\PriorityQueue\bin\Debug\netcoreapp2.0\PriorityQueue.runtimeconfig.json
+D:\Soft\C#\algo\TrainingAlgo\PriorityQueue\bin\Debug\netcoreapp2.0\PriorityQueue.runtimeconfig.dev.json
+D:\Soft\C#\algo\TrainingAlgo\PriorityQueue\bin\Debug\netcoreapp2.0\PriorityQueue.dll
+D:\Soft\C#\algo\TrainingAlgo\PriorityQueue\bin\Debug\netcoreapp2.0\PriorityQueue.pdb
+D:\Soft\C#\algo\TrainingAlgo\PriorityQueue\obj\Debug\netcoreapp2.0\PriorityQueue.csproj.CoreCompileInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\PriorityQueue\obj\Debug\netcoreapp2.0\PriorityQueue.AssemblyInfoInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\PriorityQueue\obj\Debug\netcoreapp2.0\PriorityQueue.AssemblyInfo.cs
+D:\Soft\C#\algo\TrainingAlgo\PriorityQueue\obj\Debug\netcoreapp2.0\PriorityQueue.dll
+D:\Soft\C#\algo\TrainingAlgo\PriorityQueue\obj\Debug\netcoreapp2.0\PriorityQueue.pdb

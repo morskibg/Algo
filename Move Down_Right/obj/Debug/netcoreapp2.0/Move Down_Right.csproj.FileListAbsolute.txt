@@ -1,0 +1,11 @@
+D:\Soft\C#\algo\TrainingAlgo\Move Down_Right\obj\Debug\netcoreapp2.0\Move Down_Right.csproj.CoreCompileInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\Move Down_Right\obj\Debug\netcoreapp2.0\Move Down_Right.AssemblyInfoInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\Move Down_Right\obj\Debug\netcoreapp2.0\Move Down_Right.AssemblyInfo.cs
+D:\Soft\C#\algo\TrainingAlgo\Move Down_Right\bin\Debug\netcoreapp2.0\Move Down_Right.deps.json
+D:\Soft\C#\algo\TrainingAlgo\Move Down_Right\bin\Debug\netcoreapp2.0\Move Down_Right.runtimeconfig.json
+D:\Soft\C#\algo\TrainingAlgo\Move Down_Right\bin\Debug\netcoreapp2.0\Move Down_Right.runtimeconfig.dev.json
+D:\Soft\C#\algo\TrainingAlgo\Move Down_Right\bin\Debug\netcoreapp2.0\Move Down_Right.dll
+D:\Soft\C#\algo\TrainingAlgo\Move Down_Right\bin\Debug\netcoreapp2.0\Move Down_Right.pdb
+D:\Soft\C#\algo\TrainingAlgo\Move Down_Right\obj\Debug\netcoreapp2.0\Move Down_Right.dll
+D:\Soft\C#\algo\TrainingAlgo\Move Down_Right\obj\Debug\netcoreapp2.0\Move Down_Right.pdb
+D:\Soft\C#\algo\TrainingAlgo\Move Down_Right\obj\Debug\netcoreapp2.0\Move Down_Right.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Soft\C#\algo\TrainingAlgo\Distance Between Vertices\bin\Debug\netcoreapp2.0\Distance Between Vertices.deps.json
+D:\Soft\C#\algo\TrainingAlgo\Distance Between Vertices\bin\Debug\netcoreapp2.0\Distance Between Vertices.runtimeconfig.json
+D:\Soft\C#\algo\TrainingAlgo\Distance Between Vertices\bin\Debug\netcoreapp2.0\Distance Between Vertices.runtimeconfig.dev.json
+D:\Soft\C#\algo\TrainingAlgo\Distance Between Vertices\bin\Debug\netcoreapp2.0\Distance Between Vertices.dll
+D:\Soft\C#\algo\TrainingAlgo\Distance Between Vertices\bin\Debug\netcoreapp2.0\Distance Between Vertices.pdb
+D:\Soft\C#\algo\TrainingAlgo\Distance Between Vertices\obj\Debug\netcoreapp2.0\Distance Between Vertices.csprojResolveAssemblyReference.cache
+D:\Soft\C#\algo\TrainingAlgo\Distance Between Vertices\obj\Debug\netcoreapp2.0\Distance Between Vertices.csproj.CoreCompileInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\Distance Between Vertices\obj\Debug\netcoreapp2.0\Distance Between Vertices.AssemblyInfoInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\Distance Between Vertices\obj\Debug\netcoreapp2.0\Distance Between Vertices.AssemblyInfo.cs
+D:\Soft\C#\algo\TrainingAlgo\Distance Between Vertices\obj\Debug\netcoreapp2.0\Distance Between Vertices.dll
+D:\Soft\C#\algo\TrainingAlgo\Distance Between Vertices\obj\Debug\netcoreapp2.0\Distance Between Vertices.pdb

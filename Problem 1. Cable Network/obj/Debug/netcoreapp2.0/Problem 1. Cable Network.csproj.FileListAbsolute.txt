@@ -1,0 +1,11 @@
+D:\Soft\C#\algo\TrainingAlgo\Problem 1. Cable Network\bin\Debug\netcoreapp2.0\Problem 1. Cable Network.deps.json
+D:\Soft\C#\algo\TrainingAlgo\Problem 1. Cable Network\bin\Debug\netcoreapp2.0\Problem 1. Cable Network.runtimeconfig.json
+D:\Soft\C#\algo\TrainingAlgo\Problem 1. Cable Network\bin\Debug\netcoreapp2.0\Problem 1. Cable Network.runtimeconfig.dev.json
+D:\Soft\C#\algo\TrainingAlgo\Problem 1. Cable Network\bin\Debug\netcoreapp2.0\Problem 1. Cable Network.dll
+D:\Soft\C#\algo\TrainingAlgo\Problem 1. Cable Network\bin\Debug\netcoreapp2.0\Problem 1. Cable Network.pdb
+D:\Soft\C#\algo\TrainingAlgo\Problem 1. Cable Network\obj\Debug\netcoreapp2.0\Problem 1. Cable Network.csprojResolveAssemblyReference.cache
+D:\Soft\C#\algo\TrainingAlgo\Problem 1. Cable Network\obj\Debug\netcoreapp2.0\Problem 1. Cable Network.csproj.CoreCompileInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\Problem 1. Cable Network\obj\Debug\netcoreapp2.0\Problem 1. Cable Network.AssemblyInfoInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\Problem 1. Cable Network\obj\Debug\netcoreapp2.0\Problem 1. Cable Network.AssemblyInfo.cs
+D:\Soft\C#\algo\TrainingAlgo\Problem 1. Cable Network\obj\Debug\netcoreapp2.0\Problem 1. Cable Network.dll
+D:\Soft\C#\algo\TrainingAlgo\Problem 1. Cable Network\obj\Debug\netcoreapp2.0\Problem 1. Cable Network.pdb

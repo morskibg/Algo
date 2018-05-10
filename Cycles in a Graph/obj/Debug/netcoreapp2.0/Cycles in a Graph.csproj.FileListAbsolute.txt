@@ -1,0 +1,11 @@
+D:\Soft\C#\algo\TrainingAlgo\Cycles in a Graph\bin\Debug\netcoreapp2.0\Cycles in a Graph.deps.json
+D:\Soft\C#\algo\TrainingAlgo\Cycles in a Graph\bin\Debug\netcoreapp2.0\Cycles in a Graph.runtimeconfig.json
+D:\Soft\C#\algo\TrainingAlgo\Cycles in a Graph\bin\Debug\netcoreapp2.0\Cycles in a Graph.runtimeconfig.dev.json
+D:\Soft\C#\algo\TrainingAlgo\Cycles in a Graph\bin\Debug\netcoreapp2.0\Cycles in a Graph.dll
+D:\Soft\C#\algo\TrainingAlgo\Cycles in a Graph\bin\Debug\netcoreapp2.0\Cycles in a Graph.pdb
+D:\Soft\C#\algo\TrainingAlgo\Cycles in a Graph\obj\Debug\netcoreapp2.0\Cycles in a Graph.csprojResolveAssemblyReference.cache
+D:\Soft\C#\algo\TrainingAlgo\Cycles in a Graph\obj\Debug\netcoreapp2.0\Cycles in a Graph.csproj.CoreCompileInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\Cycles in a Graph\obj\Debug\netcoreapp2.0\Cycles in a Graph.AssemblyInfoInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\Cycles in a Graph\obj\Debug\netcoreapp2.0\Cycles in a Graph.AssemblyInfo.cs
+D:\Soft\C#\algo\TrainingAlgo\Cycles in a Graph\obj\Debug\netcoreapp2.0\Cycles in a Graph.dll
+D:\Soft\C#\algo\TrainingAlgo\Cycles in a Graph\obj\Debug\netcoreapp2.0\Cycles in a Graph.pdb

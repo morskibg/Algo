@@ -1,0 +1,11 @@
+D:\Soft\C#\algo\TrainingAlgo\AreasInMatrix\bin\Debug\netcoreapp2.0\AreasInMatrix.deps.json
+D:\Soft\C#\algo\TrainingAlgo\AreasInMatrix\bin\Debug\netcoreapp2.0\AreasInMatrix.runtimeconfig.json
+D:\Soft\C#\algo\TrainingAlgo\AreasInMatrix\bin\Debug\netcoreapp2.0\AreasInMatrix.runtimeconfig.dev.json
+D:\Soft\C#\algo\TrainingAlgo\AreasInMatrix\bin\Debug\netcoreapp2.0\AreasInMatrix.dll
+D:\Soft\C#\algo\TrainingAlgo\AreasInMatrix\bin\Debug\netcoreapp2.0\AreasInMatrix.pdb
+D:\Soft\C#\algo\TrainingAlgo\AreasInMatrix\obj\Debug\netcoreapp2.0\AreasInMatrix.csprojResolveAssemblyReference.cache
+D:\Soft\C#\algo\TrainingAlgo\AreasInMatrix\obj\Debug\netcoreapp2.0\AreasInMatrix.csproj.CoreCompileInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\AreasInMatrix\obj\Debug\netcoreapp2.0\AreasInMatrix.AssemblyInfoInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\AreasInMatrix\obj\Debug\netcoreapp2.0\AreasInMatrix.AssemblyInfo.cs
+D:\Soft\C#\algo\TrainingAlgo\AreasInMatrix\obj\Debug\netcoreapp2.0\AreasInMatrix.dll
+D:\Soft\C#\algo\TrainingAlgo\AreasInMatrix\obj\Debug\netcoreapp2.0\AreasInMatrix.pdb

@@ -1,0 +1,11 @@
+D:\Soft\C#\algo\TrainingAlgo\Break Cycles\bin\Debug\netcoreapp2.0\Break Cycles.deps.json
+D:\Soft\C#\algo\TrainingAlgo\Break Cycles\bin\Debug\netcoreapp2.0\Break Cycles.runtimeconfig.json
+D:\Soft\C#\algo\TrainingAlgo\Break Cycles\bin\Debug\netcoreapp2.0\Break Cycles.runtimeconfig.dev.json
+D:\Soft\C#\algo\TrainingAlgo\Break Cycles\bin\Debug\netcoreapp2.0\Break Cycles.dll
+D:\Soft\C#\algo\TrainingAlgo\Break Cycles\bin\Debug\netcoreapp2.0\Break Cycles.pdb
+D:\Soft\C#\algo\TrainingAlgo\Break Cycles\obj\Debug\netcoreapp2.0\Break Cycles.csproj.CoreCompileInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\Break Cycles\obj\Debug\netcoreapp2.0\Break Cycles.AssemblyInfoInputs.cache
+D:\Soft\C#\algo\TrainingAlgo\Break Cycles\obj\Debug\netcoreapp2.0\Break Cycles.AssemblyInfo.cs
+D:\Soft\C#\algo\TrainingAlgo\Break Cycles\obj\Debug\netcoreapp2.0\Break Cycles.dll
+D:\Soft\C#\algo\TrainingAlgo\Break Cycles\obj\Debug\netcoreapp2.0\Break Cycles.pdb
+D:\Soft\C#\algo\TrainingAlgo\Break Cycles\obj\Debug\netcoreapp2.0\Break Cycles.csprojResolveAssemblyReference.cache

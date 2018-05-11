@@ -1,0 +1,11 @@
+E:\Work\SoftUni\Algo\Training\ZigZag\bin\Debug\netcoreapp2.0\ZigZag.deps.json
+E:\Work\SoftUni\Algo\Training\ZigZag\bin\Debug\netcoreapp2.0\ZigZag.runtimeconfig.json
+E:\Work\SoftUni\Algo\Training\ZigZag\bin\Debug\netcoreapp2.0\ZigZag.runtimeconfig.dev.json
+E:\Work\SoftUni\Algo\Training\ZigZag\bin\Debug\netcoreapp2.0\ZigZag.dll
+E:\Work\SoftUni\Algo\Training\ZigZag\bin\Debug\netcoreapp2.0\ZigZag.pdb
+E:\Work\SoftUni\Algo\Training\ZigZag\obj\Debug\netcoreapp2.0\ZigZag.csprojResolveAssemblyReference.cache
+E:\Work\SoftUni\Algo\Training\ZigZag\obj\Debug\netcoreapp2.0\ZigZag.csproj.CoreCompileInputs.cache
+E:\Work\SoftUni\Algo\Training\ZigZag\obj\Debug\netcoreapp2.0\ZigZag.AssemblyInfoInputs.cache
+E:\Work\SoftUni\Algo\Training\ZigZag\obj\Debug\netcoreapp2.0\ZigZag.AssemblyInfo.cs
+E:\Work\SoftUni\Algo\Training\ZigZag\obj\Debug\netcoreapp2.0\ZigZag.dll
+E:\Work\SoftUni\Algo\Training\ZigZag\obj\Debug\netcoreapp2.0\ZigZag.pdb
